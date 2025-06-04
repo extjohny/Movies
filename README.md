@@ -1,4 +1,5 @@
 Simple Movies Viewer using:
+
     1. MVVM arch presentation layer
     2. RecyclerViews with smooth pagination
     3. Retrofit
