@@ -14,7 +14,7 @@ Main screen (movies list by grid view):
 ![image](https://github.com/user-attachments/assets/daf35ab1-f417-4d7e-b48b-0eccefa7a568)
 
 
-Movie datail screen with all info about the film:
+Movie datail screen with all info about the movie:
 
 
 
