@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_desc">Movie</string>
+    <string name="poster_desc">Poster</string>
+    <string name="go_to_watch_trailer_desc">Go to watch trailer</string>
+    <string name="favorite_movie_desc">Favorite movie</string>
+    <string name="go_to_favorites_desc">Go to favorites</string>
+    <string name="network_problem">Some network problem</string>
+</resources>
