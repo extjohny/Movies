@@ -8,7 +8,7 @@ movies list:
 ![image](https://github.com/user-attachments/assets/daf35ab1-f417-4d7e-b48b-0eccefa7a568)
 
 
-movie datail (poster/info/trailers/reviews):
+movie datails (poster/info/trailers/reviews):
 
 
 
