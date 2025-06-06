@@ -1,20 +1,14 @@
-Simple Movies Viewer using:
+MVVM/RecyclerView/Retrofit/Glide/Room/RxJava3
 
-    1. MVVM arch presentation layer
-    2. RecyclerViews with smooth pagination
-    3. Retrofit
-    4. Glide
-    5. Room local database
-    6. RxJava3
 
-Main screen (movies list by grid view):
+movies list:
 
 
 
 ![image](https://github.com/user-attachments/assets/daf35ab1-f417-4d7e-b48b-0eccefa7a568)
 
 
-Movie datail screen with all info about the movie:
+movie datail (poster/info/trailers/reviews):
 
 
 
@@ -23,7 +17,7 @@ Movie datail screen with all info about the movie:
 
 
 
-Favirite movies screen (local database):
+favourite movies:
 
 
 
